@@ -22,3 +22,8 @@ function App() {
 }
 
 export default App;
+
+
+// .env data
+// REACT_APP_APP_ID = 37caca59
+// REACT_APP_APP_KEY = cd88311abf98e1da20790e8806fbd1c7
